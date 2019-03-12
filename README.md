@@ -1,12 +1,92 @@
-# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+<div align="center">
+	<div>
+		<a href="https://github.com/agarcialeon/Awesome-Ionic/">
+      Awesome Ionic
+			<!-- <img width="500" src="awesome-unity.png" alt="Awesome Ionic"> -->
+		</a>
+	</div>
+  <br>
+	<div>
+		<h1>Awesome Ionic</h1>		
+		<a href="https://github.com/sindresorhus/awesome"> 
+			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+		</a>					
+		<p>
+			A curated list of amazingly awesome Ionic libraries, resources and solutions.
+			<br>
+			Free assets and resources are prioritized over paid when possible.
+			<br><br>
+			Suggestions and contributions are always welcome!
+			<br>			
+			Make sure to read the <a href="https://github.com/agarcialeon/Awesome-Ionic/blob/master/CONTRIBUTING.md"> contribution guidelines </a> for more information before submitting a pull request.
+      
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+		</p>
+	</div>
+</div>
 
-> A curated list of awesome Ionic libraries, resources and solutions.
-
-Are you looking for `Ionic 1` resouces? [Click here](https://github.com/Alexintosh/Awesome-Ionic/blob/master/IONIC1.md)
+Are you looking for `Ionic 1` resouces? [Click here](https://github.com/agarcialeon/Awesome-Ionic/blob/master/IONIC1.md)
 
 Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexintosh/awesome-stencil)
 
-General
+# :bookmark_tabs: Contents
+
+- [Motivation](#motivation)
+- [Considerations](#considerations)
+- [Legend](#legend)
+	- [Icons](#icons)
+	- [Tags](#tags)
+- [Categories](#categories)
+  - [Animation](#animation)
+  - [Input](#input)
+  - [Monetization](#monetization)
+  - [Services](#services)
+  - [Localization (L18n)](#localization)
+  - [Networking](#networking)
+	- [Frameworks](#frameworks)
+	- [Patterns](#patterns)
+	- [Logging](#logging)
+	- [Error Reporting](#error-reporting)
+	- [Debugging](#debugging)
+	- [Coroutines / Threading](#coroutines-threading)	
+	- [Libraries](#libraries)
+  - [Utilities](#utilities)
+  - [Tools](#tools)
+	- [Plugins](#plugins) 
+	- [Integrated Development Environment (IDE)](#ide)
+  - [UI](#ui)
+	- [Themes / Skins](#ui-themes-skins)	
+  - [Databases](#databases)
+  - [VCS (Version Control Systems)](#vcs)
+  - [Continuous Integration (CI)](#continuous-integration)
+  - [Testing](#testing)
+  - [Customization](#customization)
+  - [Extensibility](#extensibility)
+  - [Miscellaneuous](#miscellaneous)  
+- [Learning Resources](#learning-resources)
+  - [Tips and Tricks](#tips-tricks)
+  - [Books](#books)
+  - [Blogs](#blogs)
+  - [Videos](#videos)
+  	- [Youtube Channels](#youtube-channels)
+  - [Tutorials](#tutorials)
+  - [Best Practices](#best-practices)
+  - [Shortcuts](#shortcuts)  
+  - [Other References](#other-references)
+- [Projects](#projects)
+- [Communities](#communities)
+  - [Chat Servers](#chat-servers)
+  - [Forums](#forums)
+  - [Groups](#groups)
+  - [People to Follow](#people-to-follow)
+  	- [Independent Developers](#follow-independent-developers)
+- [Frequently Asked Questions (FAQ)](#faq)
+- [Contributors to this repository](#contributors)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [To be done](#to-do)
+
+# General
 ======
 * [Official Website](https://ionicframework.com/)
 * [Blog](https://blog.ionicframework.com/)
@@ -22,14 +102,15 @@ General
 * [Ionic Starter Apps](https://ionicthemes.com)
 * [Ionic Free Tutorials](https://ionicthemes.com/tutorials)
 
-Complete projects
-======
+# Projects
 
-### Awesome Demos
+## Awesome Demos
+
 * [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)[NEW]
 * [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
-### Boilerplate/Demo Apps
+## Boilerplate/Demo Apps
+
 * [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app) ![](ionic.png) ![](pwa.png) [NEW]
 * [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
 * [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
@@ -44,8 +125,8 @@ Complete projects
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
 * [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
 
+## Open Source Apps
 
-### Open source apps
 * [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png)[NEW]
 * [Ionic 4 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)[NEW]
 * [Ionic 4 Facebook Login](https://github.com/ionicthemes/ionic-facebook-login) ![](ionic.png)[NEW]
@@ -83,10 +164,12 @@ Complete projects
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
 * [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
 
-Tutorials
-======
+# Learning Resources
 
-#### Video Tutorials
+## Tutorials
+
+## Video Tutorials
+
 * [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/) ![](ionic.png)
 * [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/) ![](ionic.png)
 * [Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) ![](ionic.png)
@@ -96,6 +179,7 @@ Tutorials
 * [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
 
 ### Basics
+
 * [Build a complete mobile app with Ionic 3](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 * [Ionic Application Structure](https://ionicthemes.com/tutorials/about/ionic-application-structure) ![](ionic.png)
 * [Setup your development environment to build Ionic apps](https://ionicthemes.com/tutorials/about/setup-your-dev-environment-to-build-ionic-apps) ![](ionic.png)
@@ -114,12 +198,13 @@ Tutorials
 * [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) ![](ionic.png)
 * [Filtering, Mapping, and Reducing Arrays in Ionic 2](https://www.youtube.com/watch?v=A-4CLa05tp0) ![](ionic.png)
 
-#### Theming
+# Theming
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/) ![](ionic.png)
 * [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html) ![](ionic.png)
 * [A List of Common CSS Utility Attributes in Ionic 2](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/) ![](ionic.png)
 
-#### Components
+# Components
+
 * [Ionic and Wordpress Integration using Wordpress REST API](https://ionicthemes.com/tutorials/about/ionic-wordpress-integration) ![](ionic.png)
 * [Add Google Maps, Places, and Geolocation to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic-2-google-maps-google-places-geolocation) ![](ionic.png)
 * [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/) ![](ionic.png)
@@ -129,7 +214,8 @@ Tutorials
 * [Create a News Feed with 360-Degree Photo Viewing in Ionic 2](http://www.joshmorony.com/create-a-news-feed-with-360-degree-photo-viewing-in-ionic-2/) ![](ionic.png)
 * [Build a Tap to Reveal Component in Ionic 2](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/) ![](ionic.png)
 
-#### Authentication
+# Authentication
+
 * [Add Twitter Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-twitter-login) ![](ionic.png)
 * [Add Google Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-google-login) ![](ionic.png)
 * [Add Facebook Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-facebook-login) ![](ionic.png)
@@ -140,12 +226,14 @@ Tutorials
 * [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/) ![](ionic.png)
 * [Authenticate Ionic 2 with WordPress](https://auth0.com/authenticate/ionic2/wordpress) ![](ionic.png)
 
-#### Unit Testing
+# Testing
+
 * [Ionic 2 Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/) ![](ionic.png)
 * [How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/) ![](ionic.png)
 * [Test Driven Development in Ionic 2: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/) ![](ionic.png)
 
-#### Ionic Native / Cordova Plugins
+## Ionic Native / Cordova Plugins
+
 * [Using Cordova Plugins in Ionic 2 with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/) ![](ionic.png)
 * [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/) ![](ionic.png)
 * [10 Minutes with Ionic 2: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/) ![](ionic.png)
@@ -166,7 +254,8 @@ Tutorials
 * [Create a Nearby Places List with Google Maps in Ionic 2 – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/) ![](ionic.png)
 * [Kommunicate Live Chat Plugin for Customer Support](https://docs.kommunicate.io/docs/cordova-installation.html) ![](ionic.png)
 
-#### Backend as a Service
+## Backend as a Service
+
 * [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
 * [Using Http to Fetch Remote Data from a Server in Ionic 2](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/) ![](ionic.png)
 * [Making REST HTTP Requests Like a Pro](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/) ![](ionic.png)
@@ -174,23 +263,26 @@ Tutorials
 * [Make HTTP Requests In An Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/) ![](ionic.png)
 * [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2) ![](ionic.png)
 
-#### i18n & l10n
+## i18n & l10n
+
 * [Internationalize and Localize Your Ionic 3 App With Ng Translate for Angular 5](https://ionicthemes.com/tutorials/about/internationalize-and-localize-your-ionic2-app-with-ngtranslate) ![](ionic.png)
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/) ![](ionic.png)
 
-Tools
-======
+# Tools
+
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode) ![](ionic.png)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2) ![](ionic.png)
 
-Components
-======
+# Components
+
 Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 
-### Animations
+## Animations
+
 * [Lottie Animation](https://github.com/chenqingspring/ng-lottie) ![](angular.png)
 
-### Menu, Tabs
+## Menu, Tabs
+
 * [Scrollabel Tabs](https://github.com/SinoThomas/Ionic2-ScrollableTabs) ![](ionic.png) 
 * [Circular Tabs](https://github.com/SinoThomas/Ionic2-CircularTabs) ![](ionic.png)
 * [Fab Toolbar](https://github.com/ekhmoi/fab-toolbar) ![](ionic.png)
@@ -198,20 +290,22 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 * [Popover Sidemenu](https://github.com/philipbrack/ionic2-menu-alternative-popover) ![](ionic.png)
 * [Drop down Title](https://github.com/Mohd-PH/ionic-drop-down-title) ![](ionic.png)
 
-### Form / Input
+## Form / Input
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ![](ionic.png)
 * [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ![](angular.png) 
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ![](angular.png) 
 * [Form Builder](https://github.com/rohitg7/ionic2-form-builder) ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ![](ionic.png)
 
-#### Input - Date/Calendar
+## Input - Date/Calendar
+
 * **Calendar**
    * [Calendar](https://github.com/twinssbc/Ionic2-Calendar)  ![](ionic.png)
    * [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) ![](ionic.png)
    * [Calendar](https://github.com/redpandatronicsuk/ionic2calendar) ![](ionic.png)
    * [Calendar](https://github.com/mattlewis92/angular-calendar) ![](angular.png) (very powerful) 
    * [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ![](angular.png)
+   
 * **Datepicker**
    * [Datepicker](https://github.com/misha130/datepicker-ionic2)  ![](ionic.png)
    * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ![](ionic.png)
@@ -219,13 +313,14 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 * [Rating](https://github.com/andrucz/ionic2-rating)  ![](ionic.png)
 * [Inputfield Mask](https://github.com/text-mask/text-mask)
 
-### Lists/Table
+## Lists/Table
 
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ![](angular.png) 
 * [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ![](angular.png)
 * [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ![](angular.png)
 
-### Images
+## Images
+
 * [Signatur](https://github.com/wulfsolter/angular2-signaturepad) ![](angular.png) works perfect with ![](ionic.png) 
 * [Image Fallback](https://github.com/VadimDez/ng2-img-fallback) ![](angular.png)
 * [Lazy Load](https://github.com/tjoskar/ng2-lazyload-image) ![](ionic.png) ![](angular.png)
@@ -236,28 +331,28 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 * [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) ![](angular.png)
 
 ### Charts/Diagram
+
 * [Charts](https://github.com/valor-software/ng2-charts) ![](angular.png)
+
 * **D3 Approaches**
   * [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ![](angular.png)
   * [D3 Barchart](https://github.com/keathmilligan/angular2-d3-v4) ![](angular.png)
   * [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ![](angular.png)
 
-### Video/Audio
+## Video/Audio
+
 * [Video Editor](https://github.com/rossmartin/video-editor-ionic2) ![](ionic.png)
 * [Audio Recorder](https://github.com/tracktunes/ionic-recorder) ![](ionic.png)
 * [Simple Audioplayer](https://github.com/arielfaur/ionic-audio) ![](ionic.png)
 
-### Keyboards
+## Keyboards
+
 * [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2) ![](ionic.png)
 
-### Dialog
+## Dialog
+
 * [Dialogbox with Counter](https://github.com/HsuanXyz/ionic2-extend-alert) ![](ionic.png)
 
-### Frames
+## Frames
+
 * [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ![](angular.png)
-
-Are you Italian?
-======
-
-**Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)!
-![](ionicitalia.jpg)
