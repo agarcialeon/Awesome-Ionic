@@ -90,11 +90,13 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 - [Code of Conduct](#code-of-conduct)
 - [To be done](#to-do)
 
-# General
+# Official Resources
 
-* [Official Website](https://ionicframework.com/)
+* [Website](http://ionicframework.com/)
 * [Blog](https://blog.ionicframework.com/)
 * [Documentation](https://ionicframework.com/docs/)
+* [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
+* [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Ionic Native](https://github.com/driftyco/ionic-native/)
 * [Github Repository](https://github.com/driftyco/ionic)
 * [Showcase](http://showcase.ionicframework.com/)
@@ -108,53 +110,59 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 
 # Learning Resources
 
+## Books
+
+* [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
+* [Ionic Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
+* [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
+
 ## Tutorials
 
 ## Video Tutorials
 
-* [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/) ![](ionic.png)
-* [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/) ![](ionic.png)
-* [Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) ![](ionic.png)
-* [Ionic 2 in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238) ![](ionic.png)
-* [Build a Custom Flash Card Component in Ionic 2](https://www.youtube.com/watch?v=BKFQKywl_GM) ![](ionic.png)
-* [Hacking CSS in Ionic 2](https://www.youtube.com/watch?v=sXFmkdhOEVc) ![](ionic.png)
+* [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/) ![](ionic.png)
+* [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/) ![](ionic.png)
+* [Ionic: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) ![](ionic.png)
+* [Ionic in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238) ![](ionic.png)
+* [Build a Custom Flash Card Component in Ionic](https://www.youtube.com/watch?v=BKFQKywl_GM) ![](ionic.png)
+* [Hacking CSS in Ionic](https://www.youtube.com/watch?v=sXFmkdhOEVc) ![](ionic.png)
 * [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
 
 ### Basics
 
-* [Build a complete mobile app with Ionic 3](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
+* [Build a complete mobile app with Ionic](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 * [Ionic Application Structure](https://ionicthemes.com/tutorials/about/ionic-application-structure) ![](ionic.png)
 * [Setup your development environment to build Ionic apps](https://ionicthemes.com/tutorials/about/setup-your-dev-environment-to-build-ionic-apps) ![](ionic.png)
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/) ![](ionic.png)
-* [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/) ![](ionic.png)
+* [Ionic First Look Series: Your First Ionic App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/) ![](ionic.png)
 * [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/) ![](ionic.png)
-* [A Simple Guide to Navigation in Ionic 2](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/) ![](ionic.png)
-* [10 Minutes with Ionic 2: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/) ![](ionic.png)
-* [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
+* [A Simple Guide to Navigation in Ionic](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/) ![](ionic.png)
+* [10 Minutes with Ionic: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/) ![](ionic.png)
+* [10 Minutes with Ionic: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
 * [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/) ![](ionic.png)
-* [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/) ![](ionic.png)
-* [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/) ![](ionic.png)
+* [How to Create a Data Model in Ionic](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/) ![](ionic.png)
+* [Ionic and External Libraries](http://mhartington.io/post/ionic2-external-libraries/) ![](ionic.png)
 * [Understanding Zones and Change Detection](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/) ![](ionic.png)
-* [Understanding Ionic 2: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/) ![](ionic.png)
-* [How to Manipulate Data in Ionic 2: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/) ![](ionic.png)
-* [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) ![](ionic.png)
-* [Filtering, Mapping, and Reducing Arrays in Ionic 2](https://www.youtube.com/watch?v=A-4CLa05tp0) ![](ionic.png)
+* [Understanding Ionic: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/) ![](ionic.png)
+* [How to Manipulate Data in Ionic: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/) ![](ionic.png)
+* [How to Manipulate Data in Ionic: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) ![](ionic.png)
+* [Filtering, Mapping, and Reducing Arrays in Ionic](https://www.youtube.com/watch?v=A-4CLa05tp0) ![](ionic.png)
 
 # Theming
-* [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/) ![](ionic.png)
-* [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html) ![](ionic.png)
-* [A List of Common CSS Utility Attributes in Ionic 2](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/) ![](ionic.png)
+* [A Guide to Styling an Ionic Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/) ![](ionic.png)
+* [Best practice when adding FontAwesome to an Ionic app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html) ![](ionic.png)
+* [A List of Common CSS Utility Attributes in Ionic](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/) ![](ionic.png)
 
 # Components
 
 * [Ionic and Wordpress Integration using Wordpress REST API](https://ionicthemes.com/tutorials/about/ionic-wordpress-integration) ![](ionic.png)
 * [Add Google Maps, Places, and Geolocation to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic-2-google-maps-google-places-geolocation) ![](ionic.png)
 * [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/) ![](ionic.png)
-* [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/) ![](ionic.png)
-* [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/) ![](ionic.png)
-* [Build a Simple Progress Bar Component in Ionic 2](http://www.joshmorony.com/build-a-simple-progress-bar-component-in-ionic-2/) ![](ionic.png)
-* [Create a News Feed with 360-Degree Photo Viewing in Ionic 2](http://www.joshmorony.com/create-a-news-feed-with-360-degree-photo-viewing-in-ionic-2/) ![](ionic.png)
-* [Build a Tap to Reveal Component in Ionic 2](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/) ![](ionic.png)
+* [Creating a Sliding Introduction Component in Ionic](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/) ![](ionic.png)
+* [How to Create a Custom Loading Component in Ionic](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/) ![](ionic.png)
+* [Build a Simple Progress Bar Component in Ionic](http://www.joshmorony.com/build-a-simple-progress-bar-component-in-ionic-2/) ![](ionic.png)
+* [Create a News Feed with 360-Degree Photo Viewing in Ionic](http://www.joshmorony.com/create-a-news-feed-with-360-degree-photo-viewing-in-ionic-2/) ![](ionic.png)
+* [Build a Tap to Reveal Component in Ionic](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/) ![](ionic.png)
 
 # Authentication
 
@@ -163,46 +171,46 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 * [Add Facebook Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-facebook-login) ![](ionic.png)
 * [Add Touch ID Authentication To An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/) ![](ionic.png)
 * [Successful OAuth Social Login with Firebase](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/) ![](ionic.png)
-* [Using An Oauth 2.0 Service Within An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/) ![](ionic.png)
-* [Ionic 2 and Auth0](http://blog.ionic.io/ionic-2-and-auth0/) ![](ionic.png)
+* [Using An Oauth 2.0 Service Within An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/) ![](ionic.png)
+* [Ionic and Auth0](http://blog.ionic.io/ionic-2-and-auth0/) ![](ionic.png)
 * [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/) ![](ionic.png)
-* [Authenticate Ionic 2 with WordPress](https://auth0.com/authenticate/ionic2/wordpress) ![](ionic.png)
+* [Authenticate Ionic  with WordPress](https://auth0.com/authenticate/ionic2/wordpress) ![](ionic.png)
 
 # Testing
 
-* [Ionic 2 Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/) ![](ionic.png)
-* [How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/) ![](ionic.png)
-* [Test Driven Development in Ionic 2: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/) ![](ionic.png)
+* [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/) ![](ionic.png)
+* [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/) ![](ionic.png)
+* [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/) ![](ionic.png)
 
 ## Ionic Native / Cordova Plugins
 
-* [Using Cordova Plugins in Ionic 2 with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/) ![](ionic.png)
+* [Using Cordova Plugins in Ionic with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/) ![](ionic.png)
 * [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/) ![](ionic.png)
-* [10 Minutes with Ionic 2: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/) ![](ionic.png)
-* [How to Use Google Maps & Geolocation ](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) ![](ionic.png)
+* [10 Minutes with Ionic: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/) ![](ionic.png)
+* [How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) ![](ionic.png)
 * [Determine Network Availability](https://www.thepolyglotdeveloper.com/2016/01/determine-network-availability-in-an-ionic-2-mobile-app/) ![](ionic.png)
-* [Monetize With Google Admob In An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/02/monetize-google-admob-ionic-2-mobile-app/) ![](ionic.png)
-* [Show Native Toast Notifications In An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/01/show-native-toast-notifications-in-an-ionic-2-mobile-app/) ![](ionic.png)
+* [Monetize With Google Admob In An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/02/monetize-google-admob-ionic-2-mobile-app/) ![](ionic.png)
+* [Show Native Toast Notifications In An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/show-native-toast-notifications-in-an-ionic-2-mobile-app/) ![](ionic.png)
 * [Having Fun With Cordova Geolocation Plugin](http://www.gajotres.net/ionic-2-having-fun-with-cordova-geolocation-plugin/) ![](ionic.png)
-* [Use SQLite In Ionic 2 Instead Of Local Storage](https://www.thepolyglotdeveloper.com/2015/12/use-sqlite-in-ionic-2-instead-of-local-storage/) ![](ionic.png)
-* [Launch Websites With Ionic 2 Using The InAppBrowser](https://www.thepolyglotdeveloper.com/2016/01/launch-websites-with-ionic-2-using-the-inappbrowser/) ![](ionic.png)
-* [Add Barcode Scanning Functionality To Your Ionic 2 App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/) ![](ionic.png)
-* [Use Google Analytics In An Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-google-analytics-in-an-ionic-2-android-and-ios-app/) ![](ionic.png)
-* [Share Things On Social Media Via An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/02/share-things-on-social-media-via-an-ionic-2-mobile-app/) ![](ionic.png)
-* [How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/) ![](ionic.png)
-* [Adding Background Geolocation to an Ionic 2 Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/) ![](ionic.png)
-* [Getting Familiar with Local Notifications in Ionic 2](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/) ![](ionic.png)
-* [Create a Nearby Places List with Google Maps in Ionic 2 – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/) ![](ionic.png)  ![](ionic.png)
-* [Create a Nearby Places List with Google Maps in Ionic 2 – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/) ![](ionic.png)
+* [Use SQLite In Ionic Instead Of Local Storage](https://www.thepolyglotdeveloper.com/2015/12/use-sqlite-in-ionic-2-instead-of-local-storage/) ![](ionic.png)
+* [Launch Websites With Ionic Using The InAppBrowser](https://www.thepolyglotdeveloper.com/2016/01/launch-websites-with-ionic-2-using-the-inappbrowser/) ![](ionic.png)
+* [Add Barcode Scanning Functionality To Your Ionic App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/) ![](ionic.png)
+* [Use Google Analytics In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-google-analytics-in-an-ionic-2-android-and-ios-app/) ![](ionic.png)
+* [Share Things On Social Media Via An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/02/share-things-on-social-media-via-an-ionic-2-mobile-app/) ![](ionic.png)
+* [How To Use PouchDB + SQLite For Local Storage In Ionic](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/) ![](ionic.png)
+* [Adding Background Geolocation to an Ionic Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/) ![](ionic.png)
+* [Getting Familiar with Local Notifications in Ionic](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/) ![](ionic.png)
+* [Create a Nearby Places List with Google Maps in Ionic – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/) ![](ionic.png)  ![](ionic.png)
+* [Create a Nearby Places List with Google Maps in Ionic – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/) ![](ionic.png)
 * [Kommunicate Live Chat Plugin for Customer Support](https://docs.kommunicate.io/docs/cordova-installation.html) ![](ionic.png)
 
 ## Backend as a Service
 
-* [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
-* [Using Http to Fetch Remote Data from a Server in Ionic 2](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/) ![](ionic.png)
+* [10 Minutes with Ionic: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
+* [Using Http to Fetch Remote Data from a Server in Ionic](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/) ![](ionic.png)
 * [Making REST HTTP Requests Like a Pro](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/) ![](ionic.png)
-* [Posting data from Ionic 2 app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/) ![](ionic.png)
-* [Make HTTP Requests In An Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/) ![](ionic.png)
+* [Posting data from Ionic app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/) ![](ionic.png)
+* [Make HTTP Requests In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/) ![](ionic.png)
 * [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2) ![](ionic.png)
 
 ## i18n & l10n
@@ -256,12 +264,12 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 * [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ![](ionic.png)
 * [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
 * [Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app) ![](ionic.png)
-* [Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client) ![](ionic.png)
-* [Media Player](https://github.com/ionic2blueprints/media-player) ![](ionic.png)
-* [Social App](https://github.com/ionic2blueprints/social-app) ![](ionic.png)
-* [Push Notification](https://github.com/aggarwalankush/ionic2-push-base) ![](ionic.png)
-* [Weather app](https://github.com/aggarwalankush/ionic2-mosum) ![](ionic.png)
-* [Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) ![](ionic.png)
+* [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client) ![](ionic.png)
+* [Ionic Media Player](https://github.com/ionic2blueprints/media-player) ![](ionic.png)
+* [Ionic Social App](https://github.com/ionic2blueprints/social-app) ![](ionic.png)
+* [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base) ![](ionic.png)
+* [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) ![](ionic.png)
+* [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) ![](ionic.png)
 * [YouTube](https://github.com/hughred22/Ionic2-Angular2-YouTube-Channel-App) ![](ionic.png)
 * [Freshlypressed API App](https://github.com/rajayogan/ionic2-freshlypressed) ![](ionic.png)
 * [Geo Fence](https://github.com/tsubik/ionic2-geofence) ![](ionic.png)
@@ -270,7 +278,12 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 * [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter) ![](ionic.png)
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
-* [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
+* [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
+* [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
+* [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
+* [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
+* [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)
+* [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket)
 
 # Tools
 
@@ -360,3 +373,5 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 ## Frames
 
 * [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ![](angular.png)
+
+
