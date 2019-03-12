@@ -37,6 +37,7 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 	- [Icons](#icons)
 	- [Tags](#tags)
 - [Categories](#categories)
+  - [Genera](#general)
   - [Animation](#animation)
   - [Input](#input)
   - [Monetization](#monetization)
@@ -74,6 +75,9 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
   - [Shortcuts](#shortcuts)  
   - [Other References](#other-references)
 - [Projects](#projects)
+	- [Awesome Demos](#projects)
+	- [Boilerplate / Demo Apps](#projects)
+	- [Open Source Apps](#projects)
 - [Communities](#communities)
   - [Chat Servers](#chat-servers)
   - [Forums](#forums)
@@ -87,7 +91,7 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 - [To be done](#to-do)
 
 # General
-======
+
 * [Official Website](https://ionicframework.com/)
 * [Blog](https://blog.ionicframework.com/)
 * [Documentation](https://ionicframework.com/docs/)
@@ -101,68 +105,6 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Ionic Starter Apps](https://ionicthemes.com)
 * [Ionic Free Tutorials](https://ionicthemes.com/tutorials)
-
-# Projects
-
-## Awesome Demos
-
-* [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)[NEW]
-* [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
-
-## Boilerplate/Demo Apps
-
-* [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app) ![](ionic.png) ![](pwa.png) [NEW]
-* [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
-* [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
-* [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
-* [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate) ![](ionic.png)
-* [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ![](ionic.png)
-* [Update your App](https://github.com/NextFaze/ionic-manup) ![](ionic.png)
-* [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app) ![](ionic.png)
-* [Fullscreen Content](https://github.com/sebaferreras/Ionic2-FullscreenContent) ![](ionic.png)
-* [Card Layout](https://github.com/joshuamorony/ionic2-card-layout) ![](ionic.png)
-* [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ![](ionic.png)
-* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
-* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
-
-## Open Source Apps
-
-* [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png)[NEW]
-* [Ionic 4 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)[NEW]
-* [Ionic 4 Facebook Login](https://github.com/ionicthemes/ionic-facebook-login) ![](ionic.png)[NEW]
-* [Ionic 4 Google Login](https://github.com/ionicthemes/ionic-google-login) ![](ionic.png)[NEW]
-* [Ionic 4 Twitter Login](https://github.com/ionicthemes/ionic-twitter-login) ![](ionic.png)[NEW]
-* [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
-* [Question & Answers Ionic 3 App](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
-* [Ionic 3 Image handling](https://github.com/ionicthemes/ionic3-image-handling) ![](ionic.png)
-* [Google Maps + Geolocation + Places](https://github.com/ionicthemes/ionic-3-google-maps-google-places-geolocation) ![](ionic.png)
-* [Ionic 3 Admob Integration](https://github.com/ionicthemes/monetize-your-ionic-3-app-with-admob) ![](ionic.png)
-* [Ionic 3 Upload Image to Firebase ](https://github.com/ionicthemes/ionic-firebase-image-upload) ![](ionic.png)
-* [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
-* [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
-* [Ionic Soundboard](https://github.com/Alexintosh/ionic3-soundboard)
-* [Ionic Soundboard with remote sounds](https://github.com/rkalis/ionic-soundboard) ![](ionic.png)
-* [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
-* [Realty](https://github.com/ccoenraets/ionic2-realty) ![](ionic.png)
-* [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
-* [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ![](ionic.png)
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
-* [Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app) ![](ionic.png)
-* [Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client) ![](ionic.png)
-* [Media Player](https://github.com/ionic2blueprints/media-player) ![](ionic.png)
-* [Social App](https://github.com/ionic2blueprints/social-app) ![](ionic.png)
-* [Push Notification](https://github.com/aggarwalankush/ionic2-push-base) ![](ionic.png)
-* [Weather app](https://github.com/aggarwalankush/ionic2-mosum) ![](ionic.png)
-* [Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) ![](ionic.png)
-* [YouTube](https://github.com/hughred22/Ionic2-Angular2-YouTube-Channel-App) ![](ionic.png)
-* [Freshlypressed API App](https://github.com/rajayogan/ionic2-freshlypressed) ![](ionic.png)
-* [Geo Fence](https://github.com/tsubik/ionic2-geofence) ![](ionic.png)
-* [Image Gallery](https://github.com/driftyco/ionic-image-gallery-app) ![](ionic.png)
-* [Real-World App](https://github.com/seeschweiler/iongithub) ![](ionic.png)
-* [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter) ![](ionic.png)
-* [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
-* [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
-* [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
 
 # Learning Resources
 
@@ -267,6 +209,68 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 
 * [Internationalize and Localize Your Ionic 3 App With Ng Translate for Angular 5](https://ionicthemes.com/tutorials/about/internationalize-and-localize-your-ionic2-app-with-ngtranslate) ![](ionic.png)
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/) ![](ionic.png)
+
+# Projects
+
+## Awesome Demos
+
+* [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)[NEW]
+* [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
+
+## Boilerplate / Demo Apps
+
+* [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app) ![](ionic.png) ![](pwa.png) [NEW]
+* [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
+* [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
+* [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
+* [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate) ![](ionic.png)
+* [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ![](ionic.png)
+* [Update your App](https://github.com/NextFaze/ionic-manup) ![](ionic.png)
+* [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app) ![](ionic.png)
+* [Fullscreen Content](https://github.com/sebaferreras/Ionic2-FullscreenContent) ![](ionic.png)
+* [Card Layout](https://github.com/joshuamorony/ionic2-card-layout) ![](ionic.png)
+* [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ![](ionic.png)
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
+* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
+
+## Open Source Apps
+
+* [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png)[NEW]
+* [Ionic 4 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)[NEW]
+* [Ionic 4 Facebook Login](https://github.com/ionicthemes/ionic-facebook-login) ![](ionic.png)[NEW]
+* [Ionic 4 Google Login](https://github.com/ionicthemes/ionic-google-login) ![](ionic.png)[NEW]
+* [Ionic 4 Twitter Login](https://github.com/ionicthemes/ionic-twitter-login) ![](ionic.png)[NEW]
+* [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
+* [Question & Answers Ionic 3 App](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
+* [Ionic 3 Image handling](https://github.com/ionicthemes/ionic3-image-handling) ![](ionic.png)
+* [Google Maps + Geolocation + Places](https://github.com/ionicthemes/ionic-3-google-maps-google-places-geolocation) ![](ionic.png)
+* [Ionic 3 Admob Integration](https://github.com/ionicthemes/monetize-your-ionic-3-app-with-admob) ![](ionic.png)
+* [Ionic 3 Upload Image to Firebase ](https://github.com/ionicthemes/ionic-firebase-image-upload) ![](ionic.png)
+* [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
+* [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
+* [Ionic Soundboard](https://github.com/Alexintosh/ionic3-soundboard)
+* [Ionic Soundboard with remote sounds](https://github.com/rkalis/ionic-soundboard) ![](ionic.png)
+* [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
+* [Realty](https://github.com/ccoenraets/ionic2-realty) ![](ionic.png)
+* [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
+* [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
+* [Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app) ![](ionic.png)
+* [Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client) ![](ionic.png)
+* [Media Player](https://github.com/ionic2blueprints/media-player) ![](ionic.png)
+* [Social App](https://github.com/ionic2blueprints/social-app) ![](ionic.png)
+* [Push Notification](https://github.com/aggarwalankush/ionic2-push-base) ![](ionic.png)
+* [Weather app](https://github.com/aggarwalankush/ionic2-mosum) ![](ionic.png)
+* [Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) ![](ionic.png)
+* [YouTube](https://github.com/hughred22/Ionic2-Angular2-YouTube-Channel-App) ![](ionic.png)
+* [Freshlypressed API App](https://github.com/rajayogan/ionic2-freshlypressed) ![](ionic.png)
+* [Geo Fence](https://github.com/tsubik/ionic2-geofence) ![](ionic.png)
+* [Image Gallery](https://github.com/driftyco/ionic-image-gallery-app) ![](ionic.png)
+* [Real-World App](https://github.com/seeschweiler/iongithub) ![](ionic.png)
+* [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter) ![](ionic.png)
+* [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
+* [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
+* [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
 
 # Tools
 
