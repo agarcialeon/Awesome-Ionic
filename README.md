@@ -435,15 +435,15 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 
 ## Best Practices
 
-: construction:
+:construction:
 
 ## Shortcuts
 
-: construction:
+:construction:
 
 ## Other References
 
-: construction:
+:construction:
 
 # Projects
 
@@ -518,23 +518,23 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 
 # Communities
 
-: construction:
+:construction:
 
 ## Chat Servers
 
-: construction:
+:construction:
 
 ## Forums
 
-: construction:
+:construction:
 
 ## Groups
 
-: construction:
+:construction:
 
 ## People To Follow
 
-: construction:
+:construction:
 
 ### Independent Developers
 
